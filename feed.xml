@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>たーちゃんの衒らかし用らじお</title>
+    <link>https://taachandayo.github.io/yachiyo-radio/</link>
+    <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
+    <language>ja</language>
+    <lastBuildDate>Sun, 08 Nov 2026 10:23:41 +0000</lastBuildDate>
+    <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
+    <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
+    <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-06 触覚ロボと国内GPU、開かれるAI</title>
+      <description>触覚ロボAI「T-Rex」／国内GPUでDeepSeek提供開始／開放型AIの国際イニシアチブ</description>
+      <pubDate>Fri, 06 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-06</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-06-ja.mp3" length="1903430" type="audio/mpeg"/>
+      <itunes:duration>1:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
