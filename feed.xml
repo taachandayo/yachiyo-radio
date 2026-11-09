@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 10:23:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:25:05 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-09 守るAI、開かれるモデル、工場のロボット</title>
+      <description>セキュリティ特化AI「GPT-6 Cyber」／「Inkling 2 Small」発表／トヨタ、全社直轄「トヨタロボティクス」</description>
+      <pubDate>Mon, 09 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-09</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-09-ja.mp3" length="1881278" type="audio/mpeg"/>
+      <itunes:duration>1:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-06 触覚ロボと国内GPU、開かれるAI</title>
       <description>触覚ロボAI「T-Rex」／国内GPUでDeepSeek提供開始／開放型AIの国際イニシアチブ</description>
