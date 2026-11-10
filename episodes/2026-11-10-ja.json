@@ -1,0 +1,251 @@
+{
+ "title": "韓国のソブリンAIと、AIの電力争奪戦",
+ "opening": [
+  {
+   "say": "タアチャンノテラカシヨウラジオです。十一月十日火曜日、おはようございます。",
+   "show": "たーちゃんの衒らかし用らじおです。11月10日火曜日、おはようございます。"
+  },
+  {
+   "say": "今日は、三本のニュースをお届けします。",
+   "show": "今日は、3本のニュースをお届けします。"
+  }
+ ],
+ "news": [
+  {
+   "details": [
+    "リベリオンズは次世代のエヌピーユー、アールニヒャクをエヌビディアのプラットフォームにつなぎ、ラック規模の推論システムを作ります。",
+    "エスケーテレコムは自社のエーアイデータセンターに導入し、政府のエーアイフォーオールを含むサービスへつなげます。",
+    "韓国の科学技術情報通信部が支援し、アールニヒャクのシステムは二〇二八年の導入が見込まれています。"
+   ],
+   "label": "NVIDIA、韓国とソブリンAIで協業",
+   "lines": [
+    {
+     "say": "エヌビディア、リベリオンズ、エスケーテレコムの三社が、韓国のソブリンエーアイの基盤を進める協業を発表しました。",
+     "show": "NVIDIA、Rebellions、SK Telecomの3社が、韓国のソブリンAI基盤を進める協業を発表しました。"
+    },
+    {
+     "say": "リベリオンズの次世代エヌピーユー、アールニヒャクを、エヌブイリンクフュージョンでエヌビディアのプラットフォームにつなぎ、ラック規模の推論を実現します。",
+     "show": "Rebellionsの次世代NPU「R200」を、NVLink FusionでNVIDIAのプラットフォームにつなぎ、ラック規模の推論を実現します。"
+    },
+    {
+     "say": "エスケーテレコムは自社のエーアイデータセンターにこのシステムを導入し、韓国政府のエーアイフォーオールを含むサービスへ広げる計画です。",
+     "show": "SK Telecomは自社のAIデータセンターにこのシステムを導入し、韓国政府の「AI for All」を含むサービスへ広げる計画です。"
+    }
+   ],
+   "link": {
+    "description": "NVIDIA、Rebellions、SK Telecomが、韓国のソブリンAIインフラを推進する協業を発表。韓国設計のAIプロセッサとモデルをNVIDIA NVLink FusionとMGXインフラの上に載せ、ラック規模の推論を実現する。",
+    "icon": null,
+    "image": null,
+    "site": "The Manila Times",
+    "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
+    "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/2464878"
+   },
+   "points": [
+    "韓国設計のNPU「R200」をNVLink Fusionで接続",
+    "SK Telecomが自社データセンターに導入",
+    "R200システムは2028年の導入見込み"
+   ],
+   "url": "https://www.manilatimes.net/2026/11/09/tmt-newswire/globenewswire/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion/2464878"
+  },
+  {
+   "details": [
+    "契約は九月下旬に結ばれ、十一月八日にフィナンシャルタイムズが報じました。",
+    "アンソロピックはワンパワー社そのものを買収したわけではなく、社員の移籍もありません。",
+    "ロイターは九月、アンソロピックが今後十年で五千億ドル以上をエーアイ基盤に投じると見込まれると報じています。"
+   ],
+   "label": "Anthropic、発電設備に約34億ドル",
+   "lines": [
+    {
+     "say": "アンソロピックが、データセンター向けのガス発電機を確保するため、およそ三十四億ドルの契約を結んだと、フィナンシャルタイムズが報じました。",
+     "show": "Anthropicが、データセンター向けのガス発電機を確保するため、約34億ドルの契約を結んだと、フィナンシャル・タイムズが報じました。"
+    },
+    {
+     "say": "九月下旬に、テキサス州のワンパワーソリューションズから、一・七ギガワット分の大型発電機の供給契約を買い取ったとされています。",
+     "show": "9月下旬に、テキサス州のOnePWR Solutionsから、1.7ギガワット分の大型発電機の供給契約を買い取ったとされています。"
+    },
+    {
+     "say": "発電機の設置に必要な工事や技術の能力も含まれますが、ロイターはこの報道を独自には確認できていないとしています。",
+     "show": "発電機の設置に必要な工事や技術の能力も含まれますが、ロイターはこの報道を独自には確認できていないとしています。"
+    }
+   ],
+   "link": {
+    "description": "Anthropic has struck a deal worth about $3.4 billion to secure gas-fired power generators for data centers, the Financial Times reported on Sunday.",
+    "icon": null,
+    "image": null,
+    "site": "Reuters",
+    "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports",
+    "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
+   },
+   "points": [
+    "約34億ドルで1.7ギガワット分の発電機を確保",
+    "契約は9月下旬、報道は11月8日",
+    "ロイターは独自確認できていないと明記"
+   ],
+   "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/"
+  },
+  {
+   "details": [
+    "ケーエグザワン ツーポイントファイブは、八月に公開した第二世代モデルに追加の学習を施した技術検証モデルです。",
+    "社内の評価では、二十四の指標全体で八月のモデルより七十パーセント以上性能が上がったとしています。",
+    "エージェント型エーアイの四つの指標では、ディープシークやジーエルエムの最先端モデルと並ぶ水準だったとしています。"
+   ],
+   "label": "LG、K-EXAONE 2.5のAPIを無料公開",
+   "lines": [
+    {
+     "say": "エルジーエーアイリサーチが、自社のエーアイモデル、ケーエグザワン ツーポイントファイブのエーピーアイを、誰でも無料で使えるようにしました。",
+     "show": "LG AI Researchが、自社のAIモデル「K-EXAONE 2.5」のAPIを、誰でも無料で使えるようにしました。"
+    },
+    {
+     "say": "十一月九日、ソウルで開かれたエヌビディアエーアイデイソウルで発表され、開発者や企業、研究機関はエーピーアイキーを取って、サービス開発や研究に使えます。",
+     "show": "11月9日、ソウルで開かれた「NVIDIA AI Day Seoul」で発表され、開発者や企業、研究機関はAPIキーを取って、サービス開発や研究に使えます。"
+    },
+    {
+     "say": "八月のモデルと比べ、二十四の評価指標全体で七十パーセント以上の性能向上があったとしています。",
+     "show": "8月のモデルと比べ、24の評価指標全体で70%以上の性能向上があったとしています。"
+    }
+   ],
+   "link": {
+    "description": "LG AI Research announced on Nov. 9 at NVIDIA AI Day Seoul 2026 that it had unveiled the improved K-EXAONE 2.5 and would make its API available free of charge to everyone.",
+    "icon": null,
+    "image": null,
+    "site": "The Asia Business Daily",
+    "title": "LG Unveils K-EXAONE 2.5, Boosts Agentic AI Performance by 70%",
+    "url": "https://www.asiae.co.kr/en/article/2026110908593029581"
+   },
+   "points": [
+    "K-EXAONE 2.5のAPIを無料で提供開始",
+    "8月のモデルから24指標で70%以上向上",
+    "エージェント型AIで世界最先端モデルと並ぶ水準"
+   ],
+   "url": "https://www.asiae.co.kr/en/article/2026110908593029581"
+  }
+ ],
+ "closing": [
+  {
+   "say": "今日は、韓国のソブリンエーアイ、エーアイの電力争奪戦、そして無料で使える韓国のエーアイモデルと、韓国発のニュースが目立つ一日でした。",
+   "show": "今日は、韓国のソブリンAI、AIの電力争奪戦、無料で使える韓国のAIモデルと、韓国発のニュースが目立つ一日でした。"
+  },
+  {
+   "say": "タアチャンノテラカシヨウラジオでした。それでは今日も、いってらっしゃい。",
+   "show": "たーちゃんの衒らかし用らじおでした。いってらっしゃい。"
+  }
+ ],
+ "format": "monoradio/news-1",
+ "date": "2026-11-10",
+ "lang": "ja",
+ "seconds": 117.78,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 4.248,
+   "show": "たーちゃんの衒らかし用らじおです。11月10日火曜日、おはようございます。",
+   "part": 0
+  },
+  {
+   "start": 4.498,
+   "end": 8.338,
+   "show": "今日は、3本のニュースをお届けします。",
+   "part": 0
+  },
+  {
+   "start": 9.338,
+   "end": 16.898,
+   "show": "NVIDIA、Rebellions、SK Telecomの3社が、韓国のソブリンAI基盤を進める協業を発表しました。",
+   "part": 1
+  },
+  {
+   "start": 17.148,
+   "end": 25.908,
+   "show": "Rebellionsの次世代NPU「R200」を、NVLink FusionでNVIDIAのプラットフォームにつなぎ、ラック規模の推論を実現します。",
+   "part": 1
+  },
+  {
+   "start": 26.158,
+   "end": 35.566,
+   "show": "SK Telecomは自社のAIデータセンターにこのシステムを導入し、韓国政府の「AI for All」を含むサービスへ広げる計画です。",
+   "part": 1
+  },
+  {
+   "start": 36.566,
+   "end": 46.646,
+   "show": "Anthropicが、データセンター向けのガス発電機を確保するため、約34億ドルの契約を結んだと、フィナンシャル・タイムズが報じました。",
+   "part": 2
+  },
+  {
+   "start": 46.896,
+   "end": 55.584,
+   "show": "9月下旬に、テキサス州のOnePWR Solutionsから、1.7ギガワット分の大型発電機の供給契約を買い取ったとされています。",
+   "part": 2
+  },
+  {
+   "start": 55.834,
+   "end": 64.162,
+   "show": "発電機の設置に必要な工事や技術の能力も含まれますが、ロイターはこの報道を独自には確認できていないとしています。",
+   "part": 2
+  },
+  {
+   "start": 65.162,
+   "end": 73.01,
+   "show": "LG AI Researchが、自社のAIモデル「K-EXAONE 2.5」のAPIを、誰でも無料で使えるようにしました。",
+   "part": 3
+  },
+  {
+   "start": 73.26,
+   "end": 84.372,
+   "show": "11月9日、ソウルで開かれた「NVIDIA AI Day Seoul」で発表され、開発者や企業、研究機関はAPIキーを取って、サービス開発や研究に使えます。",
+   "part": 3
+  },
+  {
+   "start": 84.622,
+   "end": 91.822,
+   "show": "8月のモデルと比べ、24の評価指標全体で70%以上の性能向上があったとしています。",
+   "part": 3
+  },
+  {
+   "start": 92.822,
+   "end": 104.102,
+   "show": "今日は、韓国のソブリンAI、AIの電力争奪戦、無料で使える韓国のAIモデルと、韓国発のニュースが目立つ一日でした。",
+   "part": 4
+  },
+  {
+   "start": 104.352,
+   "end": 117.48,
+   "show": "たーちゃんの衒らかし用らじおでした。いってらっしゃい。",
+   "part": 4
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 9.338
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 9.338,
+   "end": 36.566
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 36.566,
+   "end": 65.162
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 65.162,
+   "end": 92.822
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 92.822,
+   "end": 117.78
+  }
+ ],
+ "made_at": "2026-11-09T21:25:05",
+ "highlight": 0
+}
