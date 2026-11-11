@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 21:25:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:59:27 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-11 最上位Claude刷新、TPU新顔、量子とAI</title>
+      <description>Anthropic、最上位「Claude Fable 5.2」と「Mythos 5.2」発表／Google、第8世代TPUに「8tx」と「8i Max」を追加／Quantinuumと理研、量子とAIのハイブリッドで提携拡大</description>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-11</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-11-ja.mp3" length="1765921" type="audio/mpeg"/>
+      <itunes:duration>1:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-10 韓国のソブリンAIと、AIの電力争奪戦</title>
       <description>NVIDIA、韓国とソブリンAIで協業／Anthropic、発電設備に約34億ドル／LG、K-EXAONE 2.5のAPIを無料公開</description>
