@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 00:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:52:42 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-14 ジェミニの新モデル、スマートグラス予約開始、決算を受けた外食株</title>
+      <description>グーグル、高速モデル「ジェミニ・フォー・ハイドロジェン」を発表／アンソロピック、エージェント基盤の自社運用をプライベートベータで開始／オープンエーアイ、セキュリティ用エージェント「デイブレイク」を発表／グーグル×サムスンのスマートグラス、予約開始／十一月のゲーム＆ハードまとめ、グラセフ6は十九日発売／ウォッチ銘柄の動き、決算を受けた外食株が上昇</description>
+      <pubDate>Sat, 14 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-14</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-14-ja.mp3" length="3370466" type="audio/mpeg"/>
+      <itunes:duration>3:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-13 遺伝子を読むAI、動くロボット、2週間の新モデル</title>
       <description>DeepMind、DNAを読むAI「AlphaGenome 2」を発表／Runway、ロボット用AI「Praxis-1」をオープン化／アリババ、次世代モデル「Qwen4-Max」を期間限定プレビューで公開</description>
