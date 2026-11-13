@@ -22,7 +22,7 @@
   "note": "AIで生成したキャラクターです（お手本の局のものを利用）"
  },
  "credits": [
-  "声：AI音声合成（Muse）",
+  "声：Irodori-TTS",
   "形式：myradio（monoradio102/myradio、MIT）"
  ],
  "caster": "声：AI音声合成",
