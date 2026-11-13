@@ -6,7 +6,7 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 21:39:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:41:34 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
@@ -17,8 +17,8 @@
       <description>DeepMind、DNAを読むAI「AlphaGenome 2」を発表／Runway、ロボット用AI「Praxis-1」をオープン化／アリババ、次世代モデル「Qwen4-Max」を期間限定プレビューで公開</description>
       <pubDate>Fri, 13 Nov 2026 07:00:00 +0900</pubDate>
       <guid isPermaLink="false">yachiyo-radio-2026-11-13</guid>
-      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-13-ja.mp3" length="1572824" type="audio/mpeg"/>
-      <itunes:duration>1:38</itunes:duration>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-13-ja.mp3" length="1702391" type="audio/mpeg"/>
+      <itunes:duration>1:46</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
