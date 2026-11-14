@@ -1,0 +1,27 @@
+{
+ "format": "oyasumi/station-1",
+ "name": "たーちゃんのおやすみらじお",
+ "description": "タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。",
+ "tagline": "お休み前のクスッとニュース",
+ "url": "https://taachandayo.github.io/yachiyo-radio/sleep/",
+ "feed": "https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml",
+ "repo": "https://github.com/taachandayo/yachiyo-radio",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "time": "20:00",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "credits": [
+  "声：VoxCPM2（OpenBMB）Ultimate Cloning"
+ ],
+ "caster": "声：AI音声合成",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ }
+}
