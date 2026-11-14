@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>たーちゃんのおやすみらじお</title>
+    <link>https://taachandayo.github.io/yachiyo-radio/sleep/</link>
+    <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
+    <language>ja</language>
+    <lastBuildDate>Sat, 14 Nov 2026 15:43:14 +0000</lastBuildDate>
+    <itunes:author>たーちゃんのおやすみらじお</itunes:author>
+    <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
+    <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-14 酔いつぶれたアライグマ、そろった誕生日、洗濯バサミの犬</title>
+      <description>酒屋の天井から落ちて酔いつぶれたアライグマ、その後1年で29万ドルを集める／5世代全員が9月14日生まれの家族／洗濯バサミを口で留める犬ジャバの世界記録</description>
+      <pubDate>Sat, 14 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-14</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-14-ja.mp3" length="2608005" type="audio/mpeg"/>
+      <itunes:duration>4:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2026-11-10 ネス湖ビーバー、ベーグル屋のワニ、財布の当選券</title>
+      <description>スコットランド・ネス湖に500年ぶりにビーバーが帰郷／アメリカのベーグル屋にワニが来店／財布の中で2カ月待っていた100万ドルの当選券</description>
+      <pubDate>Tue, 10 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-10</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-10-ja.mp3" length="2526453" type="audio/mpeg"/>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
