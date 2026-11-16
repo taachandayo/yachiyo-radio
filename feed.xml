@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 20:25:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:23:19 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-17 AIの安全テスト、素粒子物理の候補、東京のAI信号機</title>
+      <description>Anthropic、安全テストの見直しを提唱、1回の質問では見えないリスク／OpenAI、科学ブログを開設、GPT-6 Astraが素粒子物理の証明を主導／東京の信号機8000カ所にAI制御、渋滞の長さが約1割減／Xiaomi Watch S5 41mm、仕様が公開、日本は今夜詳細発表／カメラが飛び出すロボスマホに後継機の噂、Honor Robot Phone 2／ウォッチ銘柄の動き、キオクシアが大幅安、日経平均も6万円割れ</description>
+      <pubDate>Tue, 17 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-17</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-17-ja.mp3" length="4229791" type="audio/mpeg"/>
+      <itunes:duration>4:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-16 推論コンソーシアム、エージェントの財布、耳をふさがないイヤホン</title>
       <description>競合8社が集結、オープンなAI推論「SGLang」のコンソーシアム発足／OpenAI、エージェントが支払える「ChatGPT Wallet」を発表／NTT、光の途中で信号を整える回路で処理負荷を約60％低減／Anker、耳をふさがないイヤーカフ型「AeroClip 2」発売、Proは来年3月／Bluetoothの通信速度が最大約4倍に、ロスレス再生の壁が下がる／OpenAIが「ゲームボーイっぽいの」を発売、自作ゲームを書き込めるカートリッジ付き／ウォッチ銘柄の動き、週末で新たな取引はなし</description>
