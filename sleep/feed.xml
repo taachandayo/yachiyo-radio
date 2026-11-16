@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 10:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:01:35 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-16 輪ゴム玉5トン、走って解くキューブ、豚まん262人</title>
+      <description>デトロイトで11年かけて巻いた輪ゴムの玉が5,251kgで世界最大／キューブを解いて400m走るを4回繰り返す1マイルを5分9秒25で最速記録／神戸・南京町で262人が豚まん3個を完食し世界最大の試食イベント</description>
+      <pubDate>Mon, 16 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-16</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-16-ja.mp3" length="2831829" type="audio/mpeg"/>
+      <itunes:duration>4:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-15 ロッキー570人、キノコの船、世界一大きな声</title>
       <description>フィラデルフィア美術館の階段にロッキー姿で570人が集合し世界記録／キノコの菌糸体で育てたカヤックが海峡42kmを12時間で横断／町の触れ役の女性が105.9デシベルの叫び声で世界一</description>
