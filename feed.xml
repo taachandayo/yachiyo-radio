@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 20:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:19:48 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-19 Geminiの無料タスク、AIチップ規制強化、通話専用INFOBAR ZERO</title>
+      <description>Google、Geminiのタスク機能を無料化、日本も対象に／米、AIチップの対中輸出規制を強化、東南アジア経由も対象に／Salesforce、実務向けAIエージェント3種を日本で提供開始／通話特化の携帯電話「INFOBAR ZERO」、12月25日発売／Bose、約11年ぶりの有線イヤホン、ANC付きも価格は1万6500円／ウォッチ銘柄の動き、日経平均は3日ぶり反発、エヌビディア好決算が追い風</description>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-19</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-19-ja.mp3" length="4010362" type="audio/mpeg"/>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-18 音声AIの大型買収、新モデルGPT-6.2、ニトリのオーディオ参入</title>
       <description>ElevenLabs、日本の音声AIスタートアップKotobaを約159億円で買収へ／OpenAI、新モデル「GPT-6.2 Astra」と「Sol」を公開／富士通発1FINITY、データセンターを光で直結する「世界初」のカードを発表／Xiaomi 18 Proシリーズ、日本で11月27日発売、Pro MaxはFeliCa対応／ニトリがオーディオに本格参入、イヤホン全モデル2990円／ウォッチ銘柄の動き、日経平均は続落、リクルートが約5％上昇</description>
