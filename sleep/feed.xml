@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:29:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:27:07 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-19 カボチャ1431キロ、靴下5956足、グミ48個</title>
+      <description>アメリカで育った1,431.5キロの世界一重いカボチャが最重のジャック・オー・ランタンにも／イングランドで洗濯機21台に靴下5,956足をキックで入れた記録／カクテルスティックだけでグミベア48個を1分で食べた獣医さん</description>
+      <pubDate>Thu, 19 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-19</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-19-ja.mp3" length="2703861" type="audio/mpeg"/>
+      <itunes:duration>4:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-18 歌12日間、旗24キロ、眼鏡424人</title>
       <description>インドでコンカニ語の歌を12日12時間12分歌い続けた歌のマラソン／インドネシアで広げられた24キロメートルの世界最長の旗／東京の国立能楽堂で424人が同時に眼鏡をかけた記録</description>
