@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:20:46 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-21 ジェミニがマックを操作、スントの新作ウォッチ、日経平均は歴史的下落</title>
+      <description>Mac版ジェミニに「コンピューター・ユース」、AIがパソコン操作を代行／オープンエーアイ、チャットジーピーティーの性能調査をAIで自動化、3か月で1700件超／作戦名は「エンドゲーム」、9か国の捜査機関がマルウェア配布網を一斉摘発／スント「ラン2」、スタミナがリアルタイムで見えるランナー向けウォッチ／シャープ「アクオス・センス11」、157グラムの軽さと6年のサポート／ウォッチ銘柄の動き、日経平均は歴代5番目の下げ幅、キオクシアが約12％安</description>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-21</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-21-ja.mp3" length="4100641" type="audio/mpeg"/>
+      <itunes:duration>4:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-20 アンソロピック上場、ジェミニ新モデル、冷却ファン付きバッテリー</title>
       <description>アンソロピック、公開価格83ドルでナスダック上場、史上最大級のIPOに／グーグル、中間モデル「ジェミニ・フォー・ネオン」を発表、企業向けで初日から提供／コグニション、複数のデビンを束ねる永続エージェント「デビン・ボッツ」を公開／アンカー、冷却ファン付きでQi2 25W対応「MagGo Power Bank 2 Pro」を発売／シュア、360度空間オーディオ対応マイク「MV360」を発売、ギズモードと体験イベントも／ウォッチ銘柄の動き、日経平均は続伸、任天堂とゼンショーが3％台の上昇</description>
