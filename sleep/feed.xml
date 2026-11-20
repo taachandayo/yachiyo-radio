@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 10:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:31:51 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-20 球根1737人、アヒル12209個、二輪駐車</title>
+      <description>横浜の5会場で1,737人が同時に球根を植えてギネス記録／シアトルでゴムのアヒル12,209個のコレクションが世界一／ロンドンで親子が二輪駐車など3つの記録</description>
+      <pubDate>Fri, 20 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-20</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-20-ja.mp3" length="2767989" type="audio/mpeg"/>
+      <itunes:duration>4:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-19 カボチャ1431キロ、靴下5956足、グミ48個</title>
       <description>アメリカで育った1,431.5キロの世界一重いカボチャが最重のジャック・オー・ランタンにも／イングランドで洗濯機21台に靴下5,956足をキックで入れた記録／カクテルスティックだけでグミベア48個を1分で食べた獣医さん</description>
