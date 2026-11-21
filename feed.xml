@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:29:45 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-22 リーマン予想にAIが挑む、DeNAのAI社員、電源いらずのトースター</title>
+      <description>167年未解決のリーマン予想、Anthropic数学者がClaudeと証明か／DeNA、「AI社員」を外部企業向けに提供へ、社内では30人が稼働／スパコン「富岳」不正アクセス、認証情報430件が持ち出された痕跡／電源不要。アラジンのトースターがカセットボンベで動くように／オーテク最上位イヤホン「ATH-TWX9MK3」、装着状態でノイキャンを最適化／アマズフィット「Balance 3」と「Balance Ultra」、筋力と持久力をまとめて管理／ウォッチ銘柄の動き、日曜日で市場は休場</description>
+      <pubDate>Sun, 22 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-22</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-22-ja.mp3" length="4457996" type="audio/mpeg"/>
+      <itunes:duration>4:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-21 ジェミニがマックを操作、スントの新作ウォッチ、日経平均は歴史的下落</title>
       <description>Mac版ジェミニに「コンピューター・ユース」、AIがパソコン操作を代行／オープンエーアイ、チャットジーピーティーの性能調査をAIで自動化、3か月で1700件超／作戦名は「エンドゲーム」、9か国の捜査機関がマルウェア配布網を一斉摘発／スント「ラン2」、スタミナがリアルタイムで見えるランナー向けウォッチ／シャープ「アクオス・センス11」、157グラムの軽さと6年のサポート／ウォッチ銘柄の動き、日経平均は歴代5番目の下げ幅、キオクシアが約12％安</description>
