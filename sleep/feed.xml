@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 10:28:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 10:25:48 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-22 フラミンゴ7654羽、ピカチュウ2882点、明かり160万球</title>
+      <description>ノースカロライナの芝生にフラミンゴ7,654羽の最長列でギネス記録／香港でピカチュウ2,882点のコレクションが世界一／和歌山の通りのイルミネーションがLED 1,609,700球で世界一</description>
+      <pubDate>Sun, 22 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-22</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-22-ja.mp3" length="2528949" type="audio/mpeg"/>
+      <itunes:duration>4:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-21 ステッカー31939枚、砂糖24776袋、チョコ列車55メートル</title>
       <description>シドニーの路線バスにステッカー31,939枚を貼ってギネス記録／イタリアで砂糖の小袋24,776袋のコレクションが世界一／ミラノで全部チョコレートの列車55.27メートルが最長彫刻に</description>
