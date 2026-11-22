@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 20:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 20:19:40 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-23 メルカリのAI委託先で情報流出か、TikTokのAI判定、95グラムのXRグラス</title>
+      <description>メルカリ、Notion AIの委託先への不正アクセスで顧客1,522名分の情報流出の可能性／TikTok、AI生成かどうか誰でも確認できる「透明性確認」と「肖像検出」を開始／Microsoft Edge 158公開、ページの見た目をAIで作り変える「Remix」導入／Xiaomi初のイヤーカフ型「Xiaomi Clip」、録音もできるのに片耳5.5グラム／SwitchBot「お掃除ロボットS30」、直径28センチでローラーを洗いながら水拭き／Google Picsが「Nano Banana 2.1」へ、画像の文字と部分編集がくっきり／小型XRグラス「XREAL AURA」レビュー、95グラムで画質は満足、視野角は約70度／ウォッチ銘柄の動き、祝日で市場は休場</description>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-23</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-23-ja.mp3" length="4275348" type="audio/mpeg"/>
+      <itunes:duration>4:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-22 リーマン予想にAIが挑む、DeNAのAI社員、電源いらずのトースター</title>
       <description>167年未解決のリーマン予想、Anthropic数学者がClaudeと証明か／DeNA、「AI社員」を外部企業向けに提供へ、社内では30人が稼働／スパコン「富岳」不正アクセス、認証情報430件が持ち出された痕跡／電源不要。アラジンのトースターがカセットボンベで動くように／オーテク最上位イヤホン「ATH-TWX9MK3」、装着状態でノイキャンを最適化／アマズフィット「Balance 3」と「Balance Ultra」、筋力と持久力をまとめて管理／ウォッチ銘柄の動き、日曜日で市場は休場</description>
