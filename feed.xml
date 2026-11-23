@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:21:45 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-24 OpenAIがAI開発の上限案、Amazonの大型買収、65万円のウォークマン</title>
+      <description>OpenAI主任科学者、AI開発に業界共通の「上限」と物差しを提案／Amazon、AIチップ最適化のDecartの技術を買収、報道では約75億ドル／英NHS、約70万人規模のAI乳がん検診試験「EDITH」を開始／Anker、睡眠イヤホン最上位「Sleep Earbuds 4 Pro」を発表、心拍も測れる／Razer、音と振動を体で感じるゲーミングチェア「Soma」2モデルを発表／ソニー、最高級ウォークマン「NW-WM1ZM3」が11月27日発売、約65万円／ウォッチ銘柄の動き、祝日明けで新しい取引はなし</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-24</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-24-ja.mp3" length="4444622" type="audio/mpeg"/>
+      <itunes:duration>4:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-23 メルカリのAI委託先で情報流出か、TikTokのAI判定、95グラムのXRグラス</title>
       <description>メルカリ、Notion AIの委託先への不正アクセスで顧客1,522名分の情報流出の可能性／TikTok、AI生成かどうか誰でも確認できる「透明性確認」と「肖像検出」を開始／Microsoft Edge 158公開、ページの見た目をAIで作り変える「Remix」導入／Xiaomi初のイヤーカフ型「Xiaomi Clip」、録音もできるのに片耳5.5グラム／SwitchBot「お掃除ロボットS30」、直径28センチでローラーを洗いながら水拭き／Google Picsが「Nano Banana 2.1」へ、画像の文字と部分編集がくっきり／小型XRグラス「XREAL AURA」レビュー、95グラムで画質は満足、視野角は約70度／ウォッチ銘柄の動き、祝日で市場は休場</description>
