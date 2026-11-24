@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 10:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:26:45 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-24 帽子6メートル、女神43秒、辛い麺335本</title>
+      <description>カリフォルニアで6.107メートルの史上最も高い帽子が認定／ニューヨークで自由の女神を43.5秒で描いた最速記録／辛い麺ブルダックを食べる動画335本が1時間に投稿され記録</description>
+      <pubDate>Tue, 24 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-24</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-24-ja.mp3" length="2605965" type="audio/mpeg"/>
+      <itunes:duration>4:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-23 ピクルス1597人、カメ5373点、カード7パック</title>
       <description>フィラデルフィアでピクルス姿の1,597人が集合し世界記録／オーストラリアでカメ関連品5,373点のコレクションが世界一／イギリスで複葉機の翼の上でカード7パックを開封し世界記録</description>
