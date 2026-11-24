@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 20:21:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 20:20:41 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-25 Claudeがコードを承認、量子回路を290倍速く、端っこのカメラの折りたたみ</title>
+      <description>Anthropic「Claude Ship」、AIがコードをレビューし修正し承認まで／Google DeepMind、Geminiのチームが量子アルゴリズムを改良、最大290倍速く／OpenAIとCisco、再起動なしでLinuxを守る「Shirudo」をオープンソース公開／Motorolaの折りたたみ「Razr Flex」がリーク、カメラは画面の端っこに／Nothingの新端末は録音できるイヤホン「Ear Note」か、12月8日発表／ウォッチ銘柄の動き、日経平均は約4％高、キオクシアが約10％上昇</description>
+      <pubDate>Wed, 25 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-25</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-25-ja.mp3" length="4805738" type="audio/mpeg"/>
+      <itunes:duration>5:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-24 OpenAIがAI開発の上限案、Amazonの大型買収、65万円のウォークマン</title>
       <description>OpenAI主任科学者、AI開発に業界共通の「上限」と物差しを提案／Amazon、AIチップ最適化のDecartの技術を買収、報道では約75億ドル／英NHS、約70万人規模のAI乳がん検診試験「EDITH」を開始／Anker、睡眠イヤホン最上位「Sleep Earbuds 4 Pro」を発表、心拍も測れる／Razer、音と振動を体で感じるゲーミングチェア「Soma」2モデルを発表／ソニー、最高級ウォークマン「NW-WM1ZM3」が11月27日発売、約65万円／ウォッチ銘柄の動き、祝日明けで新しい取引はなし</description>
