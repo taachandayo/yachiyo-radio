@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:29:18 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-25 レゴ10メートル、サッカー68国籍、カタン1547点</title>
+      <description>アブダビでレゴ製キャラクターが高さ10メートルで世界一／モロッコで68国籍の選手がサッカー親善試合／ニュージーランドでカタンの品々1,547点のコレクションが世界一</description>
+      <pubDate>Wed, 25 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-25</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-25-ja.mp3" length="2587269" type="audio/mpeg"/>
+      <itunes:duration>4:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-24 帽子6メートル、女神43秒、辛い麺335本</title>
       <description>カリフォルニアで6.107メートルの史上最も高い帽子が認定／ニューヨークで自由の女神を43.5秒で描いた最速記録／辛い麺ブルダックを食べる動画335本が1時間に投稿され記録</description>
