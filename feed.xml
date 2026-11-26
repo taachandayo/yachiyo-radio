@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 20:24:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 20:21:24 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-27 宇宙にAIデータセンター、ClaudeがAPIをRust化、発火を抑えるバッテリー</title>
+      <description>SpaceX、最大100万基の衛星で宇宙にAIデータセンター、FCCが条件付き承認／Anthropic、ClaudeのAPIをPythonからRustへ移行、CPUは約70％減／OpenAIのGPT-6.2が設計したタンパク質、実験室で5つの標的に結合／モトローラ最上位「motorola signature」、薄さ約7ミリで12月4日発売／エレコム「Next Li+」モバイルバッテリー、発火リスクを抑える新設計で12月発売／ウォッチ銘柄の動き、日経平均は反発、キオクシアが約13％高</description>
+      <pubDate>Fri, 27 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-27</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-27-ja.mp3" length="4784004" type="audio/mpeg"/>
+      <itunes:duration>4:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-26 AIエージェントがAmazonへ、窓に貼るカメラ、キオクシア急落と医薬品高</title>
       <description>AmazonとMeta、AIエージェント「Muse」の接続解禁へ協議か／CrowdStrike、Zscalerを約439億ドルで買収へ、セキュリティ大手同士が統合／TIDAL、AI生成だけの楽曲を禁止へ、約2,900万曲を削除／厚さ約15ミリ、UGREENの薄型65W充電器が隙間に強い／Anker、窓に貼るだけの防犯カメラ「Window Camera E10」を発売／ウォッチ銘柄の動き、日経平均は反落、キオクシアが約14％安、医薬品株は上昇</description>
