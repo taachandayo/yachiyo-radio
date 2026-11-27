@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 20:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 20:21:25 +0000</lastBuildDate>
     <itunes:author>たーちゃんの衒らかし用らじお</itunes:author>
     <itunes:summary>タアチャンノテラカシヨウラジオ。AIとテクノロジーの気になるニュースを、毎朝コンパクトにお届けするテスト放送局です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/cover.jpg"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-28 SAPにセキュリティ事案、GoogleがエージェントにMCP必須化、Xiaomi 18 Pro発売</title>
+      <description>SAP、GitHub周辺の不審な活動を確認、顧客データへのアクセス証拠はなし／米国の新規制でNvidia B300数千基が買い手を探す、中国向け遠隔レンタルの抜け道を封鎖／Google、Workspaceへのエージェント接続は2027年2月からMCP必須に／Xiaomi 18 Proシリーズが11月27日発売、背面ディスプレイと2億画素カメラ／Insta360「Toast」、6色カラー電子ペーパーの手のひらフォトフレーム、43グラム／ウォッチ銘柄の動き、日経平均は1,211円高、キオクシア約9％高・JT約5％高</description>
+      <pubDate>Sat, 28 Nov 2026 07:00:00 +0900</pubDate>
+      <guid isPermaLink="false">yachiyo-radio-2026-11-28</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/audio/2026-11-28-ja.mp3" length="4297082" type="audio/mpeg"/>
+      <itunes:duration>4:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-27 宇宙にAIデータセンター、ClaudeがAPIをRust化、発火を抑えるバッテリー</title>
       <description>SpaceX、最大100万基の衛星で宇宙にAIデータセンター、FCCが条件付き承認／Anthropic、ClaudeのAPIをPythonからRustへ移行、CPUは約70％減／OpenAIのGPT-6.2が設計したタンパク質、実験室で5つの標的に結合／モトローラ最上位「motorola signature」、薄さ約7ミリで12月4日発売／エレコム「Next Li+」モバイルバッテリー、発火リスクを抑える新設計で12月発売／ウォッチ銘柄の動き、日経平均は反発、キオクシアが約13％高</description>
