@@ -6,12 +6,21 @@
     <atom:link href="https://taachandayo.github.io/yachiyo-radio/sleep/feed.xml" rel="self" type="application/rss+xml"/>
     <description>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 10:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:26:28 +0000</lastBuildDate>
     <itunes:author>たーちゃんのおやすみらじお</itunes:author>
     <itunes:summary>タアチャンノオヤスミラジオ。お休み前に、クスッと笑える世界の小ネタを三本だけ、ゆっくりお届けする番組です。</itunes:summary>
     <itunes:image href="https://taachandayo.github.io/yachiyo-radio/sleep/cover.jpg"/>
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>2026-11-28 モノポリー4379点、ゴミ箱270点、鞄7816点</title>
+      <description>イギリスでモノポリーの品々4,379点のコレクションが世界一／ドイツでゴミ箱270点のコレクションが世界一／韓国でスーツケース7,816点のコレクションが世界一</description>
+      <pubDate>Sat, 28 Nov 2026 20:00:00 +0900</pubDate>
+      <guid isPermaLink="false">oyasumi-radio-2026-11-28</guid>
+      <enclosure url="https://taachandayo.github.io/yachiyo-radio/sleep/audio/2026-11-28-ja.mp3" length="2582997" type="audio/mpeg"/>
+      <itunes:duration>4:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-27 実験5035人、置物3218点、星座73個</title>
       <description>アラブ首長国連邦で5,035人が同時に科学実験を行い世界記録／香港で動物の置物3,218点のコレクションが世界一／インドで1分間に星座73個を当て世界記録</description>
